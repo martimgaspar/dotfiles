@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 bf774211916c8a9d57b2b56c7846cd0b3d91baab mgasparUNC <mgaspar@unc.edu> 1693332160 -0400	fetch --depth=1 origin: storing head
+bf774211916c8a9d57b2b56c7846cd0b3d91baab 38ef5192cb1c43159b516d15ab8fed96f847b36b martimgaspar <martimgaspar@gmail.com> 1694438202 -0400	pull --quiet --rebase origin master: fast-forward
+38ef5192cb1c43159b516d15ab8fed96f847b36b 1c55a0fe5246487ec9f18e03b7f28862b76cb7ab martimgaspar <martimgaspar@gmail.com> 1695608133 -0400	pull --quiet --rebase origin master: fast-forward
+1c55a0fe5246487ec9f18e03b7f28862b76cb7ab b1821a24f0574488554de8e7f6d0735fb851de8b Martim Gaspar <martimgaspar@gmail.com> 1696966270 -0400	pull --quiet --rebase origin master: fast-forward
+b1821a24f0574488554de8e7f6d0735fb851de8b 048455ccefdc67c4f137b8f7886769c55c2e5417 Martim Gaspar <mgaspar@unc.edu> 1698437033 -0400	pull --quiet --rebase origin master: fast-forward
+048455ccefdc67c4f137b8f7886769c55c2e5417 b6bb133f230847ed0b3f9f4e25f2ceb874ca6c91 Martim Gaspar <mgaspar@unc.edu> 1699544271 -0500	pull --quiet --rebase origin master: fast-forward
+b6bb133f230847ed0b3f9f4e25f2ceb874ca6c91 0a9d82780e20e24b6fafc5b2aaefedb0957986c9 Martim Gaspar <mgaspar@unc.edu> 1701559490 -0500	pull --quiet --rebase origin master: fast-forward
+0a9d82780e20e24b6fafc5b2aaefedb0957986c9 1c8dee848dad169c9eb1a7b0148842b48a99cad1 Martim Gaspar <mgaspar@unc.edu> 1704951447 -0500	pull --quiet --rebase origin master: fast-forward
+1c8dee848dad169c9eb1a7b0148842b48a99cad1 e656377d36077b0ca757d995c9c35f0fea7c7fdd Martim Gaspar <mgaspar@unc.edu> 1706117057 -0500	pull --quiet --rebase origin master: fast-forward
+e656377d36077b0ca757d995c9c35f0fea7c7fdd fff073b55defed72a0a1aac4e853b165f208735b Martim Gaspar <mgaspar@unc.edu> 1707408723 -0500	pull --quiet --rebase origin master: fast-forward
+fff073b55defed72a0a1aac4e853b165f208735b 40ff950fcd081078a8cd3de0eaab784f85c681d5 Martim Gaspar <mgaspar@unc.edu> 1708619162 -0500	pull --quiet --rebase origin master: fast-forward
+40ff950fcd081078a8cd3de0eaab784f85c681d5 6dfa9507ce0eb0f4d386bd03268e33943ea55c0f Martim Gaspar <mgaspar@unc.edu> 1712106268 -0400	pull --quiet --rebase origin master: fast-forward
+6dfa9507ce0eb0f4d386bd03268e33943ea55c0f 67581c53c6458566e174620361e84b364b9034d2 Martim Gaspar <mgaspar@unc.edu> 1713820728 -0400	pull --quiet --rebase origin master: fast-forward
+67581c53c6458566e174620361e84b364b9034d2 5e59d21e5465ec0694441f41ff0acf1ddf4de187 Martim Gaspar <mgaspar@unc.edu> 1716833593 -0400	pull --quiet --rebase origin master: fast-forward
+5e59d21e5465ec0694441f41ff0acf1ddf4de187 a87e9c715b2d3249681f9cc8f8d9718030674d50 Martim Gaspar <mgaspar@unc.edu> 1719257396 -0400	pull --quiet --rebase origin master: fast-forward
+a87e9c715b2d3249681f9cc8f8d9718030674d50 608d62b2a5ee7f3af62dd8f31d47c167bf04547f Martim Gaspar <mgaspar@unc.edu> 1720452684 -0400	pull --quiet --rebase origin master: fast-forward
+608d62b2a5ee7f3af62dd8f31d47c167bf04547f f622e6a6367b5142c868f554fda968982226e5df Martim Gaspar <mgaspar@unc.edu> 1724681360 -0400	pull --quiet --rebase origin master: fast-forward
+f622e6a6367b5142c868f554fda968982226e5df 80fa5e137672a529f65a05e396b40f0d133b2432 Martim Gaspar <martimgaspar@gmail.com> 1725819691 -0400	pull --quiet --rebase origin master: fast-forward
+80fa5e137672a529f65a05e396b40f0d133b2432 f11cc8fea190eb9a1638dc67877436d0b8475ff5 Martim Gaspar <martimgaspar@gmail.com> 1727021174 -0400	pull --quiet --rebase origin master: fast-forward
+f11cc8fea190eb9a1638dc67877436d0b8475ff5 c690f731618959cba3b85500acee20ebf43e51c1 Martim Gaspar <martimgaspar@gmail.com> 1730511711 -0700	pull --quiet --rebase origin master: fast-forward
+c690f731618959cba3b85500acee20ebf43e51c1 366d25435229bfa725109a147d6cb2fef8011b3c Martim Gaspar <martimgaspar@gmail.com> 1732553563 -0500	pull --quiet --rebase origin master: fast-forward
+366d25435229bfa725109a147d6cb2fef8011b3c b9e73b44811becbdf24cff54441c73839a29c523 Martim Gaspar <martimgaspar@gmail.com> 1734366192 +0000	pull --quiet --rebase origin master: fast-forward
+b9e73b44811becbdf24cff54441c73839a29c523 028d65363230b4aa54f3aaa14e03237243a2f1d8 Martim Gaspar <martimgaspar@gmail.com> 1737045002 -0500	pull --quiet --rebase origin master: fast-forward
+028d65363230b4aa54f3aaa14e03237243a2f1d8 92da3108b52be506dc1334e8f0dc67c5d1c13d57 Martim Gaspar <martimgaspar@gmail.com> 1739917222 -0500	pull --quiet --rebase origin master: fast-forward
