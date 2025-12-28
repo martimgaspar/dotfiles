@@ -7,11 +7,16 @@ return {
       extra_groups = { -- additional groups you want to clear
         "NormalFloat",
         "NvimTreeNormal",
-        "FloatBorder",
         "TelescopeNormal",
         "TelescopeBorder",
+        "NeoTreeNormal", -- main tree background
+        "NeoTreeNormalNC", -- inactive tree background
+        "NeoTreeWinSeparator", -- the separator line
+        "NeoTreeEndOfBuffer", -- blank lines at buffer end
       },
-      exclude = {}, -- groups you don't want to clear
+      exclude = {
+        "FloatBorder",
+      }, -- groups you don't want to clear
     })
 
     -- Optionally toggle transparency with a keybinding
