@@ -12,7 +12,12 @@ sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply git@github.com:martimgaspar
 chezmoi update -v
 ```
 
-3. Updating the Repo
+3. Updating the Repo (add each folder one by one)
 ```zsh
 chezmoi add ~/.config/test
+```
+
+Alt can try:
+```zsh
+echo ~/.config/* | xargs -rn1 | grep -v chezmoi | xargs -rn1 chezmoi add 
 ```
